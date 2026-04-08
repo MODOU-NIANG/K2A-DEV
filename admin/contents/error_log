@@ -1,0 +1,134 @@
+[27-Feb-2022 20:10:39 Africa/Dakar] PHP Notice:  session_start(): A session had already been started - ignoring in /home/guediawa/bluearkinvest.com/dev/admin/controllers/loginController.php on line 3
+[27-Feb-2022 20:30:24 Africa/Dakar] PHP Notice:  session_start(): A session had already been started - ignoring in /home/guediawa/bluearkinvest.com/dev/admin/controllers/loginController.php on line 3
+[27-Feb-2022 20:35:42 Africa/Dakar] PHP Notice:  session_start(): A session had already been started - ignoring in /home/guediawa/bluearkinvest.com/dev/admin/controllers/loginController.php on line 3
+[27-Feb-2022 20:51:30 Africa/Dakar] PHP Notice:  session_start(): A session had already been started - ignoring in /home/guediawa/bluearkinvest.com/dev/admin/controllers/loginController.php on line 3
+[07-Apr-2022 17:10:30 Africa/Dakar] PHP Notice:  session_start(): A session had already been started - ignoring in /home/guediawa/bluearkinvest.com/dev/admin/controllers/loginController.php on line 3
+[07-Apr-2022 17:59:05 Africa/Dakar] PHP Notice:  session_start(): A session had already been started - ignoring in /home/guediawa/bluearkinvest.com/dev/admin/controllers/loginController.php on line 3
+[07-Apr-2022 18:05:11 Africa/Dakar] PHP Warning:  mkdir(): File exists in /home/guediawa/bluearkinvest.com/dev/admin/controllers/publicationController.php on line 195
+[07-Apr-2022 18:06:08 Africa/Dakar] PHP Warning:  mkdir(): File exists in /home/guediawa/bluearkinvest.com/dev/admin/controllers/publicationController.php on line 143
+[10-Apr-2022 17:12:47 Africa/Dakar] PHP Notice:  session_start(): A session had already been started - ignoring in /home/guediawa/bluearkinvest.com/dev/admin/controllers/loginController.php on line 3
+[10-Apr-2022 17:20:08 Africa/Dakar] PHP Notice:  session_start(): A session had already been started - ignoring in /home/guediawa/bluearkinvest.com/dev/admin/controllers/loginController.php on line 3
+[10-Apr-2022 17:29:08 Africa/Dakar] PHP Notice:  session_start(): A session had already been started - ignoring in /home/guediawa/bluearkinvest.com/dev/admin/controllers/loginController.php on line 3
+[10-Apr-2022 19:14:10 Africa/Dakar] PHP Notice:  session_start(): A session had already been started - ignoring in /home/guediawa/bluearkinvest.com/dev/admin/controllers/loginController.php on line 3
+[10-Apr-2022 19:49:22 Africa/Dakar] PHP Warning:  mkdir(): File exists in /home/guediawa/bluearkinvest.com/dev/admin/controllers/publicationController.php on line 143
+[10-Apr-2022 19:52:43 Africa/Dakar] PHP Notice:  session_start(): A session had already been started - ignoring in /home/guediawa/bluearkinvest.com/dev/admin/controllers/loginController.php on line 3
+[10-Apr-2022 19:53:08 Africa/Dakar] PHP Warning:  mkdir(): File exists in /home/guediawa/bluearkinvest.com/dev/admin/controllers/publicationController.php on line 143
+[10-Apr-2022 20:14:23 Africa/Dakar] PHP Notice:  session_start(): A session had already been started - ignoring in /home/guediawa/bluearkinvest.com/dev/admin/controllers/loginController.php on line 3
+[10-Apr-2022 20:23:15 Africa/Dakar] PHP Notice:  session_start(): A session had already been started - ignoring in /home/guediawa/bluearkinvest.com/dev/admin/controllers/loginController.php on line 3
+[10-Apr-2022 20:31:57 Africa/Dakar] PHP Notice:  session_start(): A session had already been started - ignoring in /home/guediawa/bluearkinvest.com/dev/admin/controllers/loginController.php on line 3
+[10-Apr-2022 20:32:29 Africa/Dakar] PHP Warning:  mkdir(): File exists in /home/guediawa/bluearkinvest.com/dev/admin/controllers/publicationController.php on line 143
+[10-Apr-2022 20:33:33 Africa/Dakar] PHP Notice:  session_start(): A session had already been started - ignoring in /home/guediawa/bluearkinvest.com/dev/admin/controllers/loginController.php on line 3
+[10-Apr-2022 20:35:36 Africa/Dakar] PHP Notice:  session_start(): A session had already been started - ignoring in /home/guediawa/bluearkinvest.com/dev/admin/controllers/loginController.php on line 3
+[10-Apr-2022 20:36:09 Africa/Dakar] PHP Warning:  mkdir(): File exists in /home/guediawa/bluearkinvest.com/dev/admin/controllers/publicationController.php on line 143
+[10-Apr-2022 20:37:31 Africa/Dakar] PHP Warning:  mkdir(): File exists in /home/guediawa/bluearkinvest.com/dev/admin/controllers/publicationController.php on line 143
+[12-Apr-2022 22:56:31 Africa/Dakar] PHP Notice:  session_start(): A session had already been started - ignoring in /home/guediawa/bluearkinvest.com/dev/admin/controllers/loginController.php on line 3
+[12-Apr-2022 23:21:09 Africa/Dakar] PHP Notice:  session_start(): A session had already been started - ignoring in /home/guediawa/bluearkinvest.com/dev/admin/controllers/loginController.php on line 3
+[17-Apr-2022 01:30:19 Africa/Dakar] PHP Notice:  session_start(): A session had already been started - ignoring in /home/guediawa/bluearkinvest.com/dev/admin/controllers/loginController.php on line 3
+[18-Apr-2022 20:31:09 Africa/Dakar] PHP Notice:  session_start(): A session had already been started - ignoring in /home/guediawa/bluearkinvest.com/dev/admin/controllers/loginController.php on line 3
+[19-Apr-2022 20:53:47 Africa/Dakar] PHP Notice:  session_start(): A session had already been started - ignoring in /home/guediawa/bluearkinvest.com/dev/admin/controllers/loginController.php on line 3
+[20-Apr-2022 20:29:57 Africa/Dakar] PHP Notice:  session_start(): A session had already been started - ignoring in /home/guediawa/bluearkinvest.com/dev/admin/controllers/loginController.php on line 3
+[22-Apr-2022 03:36:40 Africa/Dakar] PHP Notice:  session_start(): A session had already been started - ignoring in /home/guediawa/bluearkinvest.com/dev/admin/controllers/loginController.php on line 3
+[22-Apr-2022 17:31:43 Africa/Dakar] PHP Notice:  Undefined variable: nomRep in /home/guediawa/bluearkinvest.com/dev/admin/controllers/publicationController.php on line 170
+[22-Apr-2022 17:31:43 Africa/Dakar] PHP Warning:  mkdir(): File exists in /home/guediawa/bluearkinvest.com/dev/admin/controllers/publicationController.php on line 178
+[22-Apr-2022 17:31:43 Africa/Dakar] PHP Notice:  Undefined variable: nomRep in /home/guediawa/bluearkinvest.com/dev/admin/controllers/publicationController.php on line 189
+[22-Apr-2022 17:31:43 Africa/Dakar] PHP Warning:  mkdir(): File exists in /home/guediawa/bluearkinvest.com/dev/admin/controllers/publicationController.php on line 197
+[23-Apr-2022 04:05:06 Africa/Dakar] PHP Notice:  Undefined variable: nomRep in /home/guediawa/bluearkinvest.com/dev/admin/controllers/publicationController.php on line 189
+[23-Apr-2022 04:05:06 Africa/Dakar] PHP Warning:  mkdir(): File exists in /home/guediawa/bluearkinvest.com/dev/admin/controllers/publicationController.php on line 197
+[23-Apr-2022 04:05:06 Africa/Dakar] PHP Notice:  Undefined variable: linkDark in /home/guediawa/bluearkinvest.com/dev/admin/controllers/publicationController.php on line 207
+[23-Apr-2022 04:08:49 Africa/Dakar] PHP Notice:  Undefined variable: nomRep in /home/guediawa/bluearkinvest.com/dev/admin/controllers/publicationController.php on line 170
+[23-Apr-2022 04:08:49 Africa/Dakar] PHP Warning:  mkdir(): File exists in /home/guediawa/bluearkinvest.com/dev/admin/controllers/publicationController.php on line 178
+[23-Apr-2022 04:08:49 Africa/Dakar] PHP Notice:  Undefined variable: nomRep in /home/guediawa/bluearkinvest.com/dev/admin/controllers/publicationController.php on line 189
+[23-Apr-2022 04:08:49 Africa/Dakar] PHP Warning:  mkdir(): File exists in /home/guediawa/bluearkinvest.com/dev/admin/controllers/publicationController.php on line 197
+[23-Apr-2022 04:11:32 Africa/Dakar] PHP Notice:  Undefined variable: linkDark in /home/guediawa/bluearkinvest.com/dev/admin/controllers/publicationController.php on line 207
+[23-Apr-2022 04:11:32 Africa/Dakar] PHP Notice:  Undefined variable: linkLight in /home/guediawa/bluearkinvest.com/dev/admin/controllers/publicationController.php on line 207
+[23-Apr-2022 04:12:04 Africa/Dakar] PHP Notice:  Undefined variable: nomRep in /home/guediawa/bluearkinvest.com/dev/admin/controllers/publicationController.php on line 170
+[23-Apr-2022 04:12:04 Africa/Dakar] PHP Warning:  mkdir(): File exists in /home/guediawa/bluearkinvest.com/dev/admin/controllers/publicationController.php on line 178
+[23-Apr-2022 04:12:04 Africa/Dakar] PHP Notice:  Undefined variable: nomRep in /home/guediawa/bluearkinvest.com/dev/admin/controllers/publicationController.php on line 189
+[23-Apr-2022 04:12:04 Africa/Dakar] PHP Warning:  mkdir(): File exists in /home/guediawa/bluearkinvest.com/dev/admin/controllers/publicationController.php on line 197
+[23-Apr-2022 20:38:20 Africa/Dakar] PHP Notice:  session_start(): A session had already been started - ignoring in /home/guediawa/bluearkinvest.com/dev/admin/controllers/loginController.php on line 3
+[23-Apr-2022 20:40:27 Africa/Dakar] PHP Notice:  Undefined variable: nomRep in /home/guediawa/bluearkinvest.com/dev/admin/controllers/publicationController.php on line 170
+[23-Apr-2022 20:40:27 Africa/Dakar] PHP Warning:  mkdir(): File exists in /home/guediawa/bluearkinvest.com/dev/admin/controllers/publicationController.php on line 178
+[23-Apr-2022 20:40:27 Africa/Dakar] PHP Notice:  Undefined variable: nomRep in /home/guediawa/bluearkinvest.com/dev/admin/controllers/publicationController.php on line 189
+[23-Apr-2022 20:40:27 Africa/Dakar] PHP Warning:  mkdir(): File exists in /home/guediawa/bluearkinvest.com/dev/admin/controllers/publicationController.php on line 197
+[23-Apr-2022 20:47:00 Africa/Dakar] PHP Notice:  session_start(): A session had already been started - ignoring in /home/guediawa/bluearkinvest.com/dev/admin/controllers/loginController.php on line 3
+[15-May-2022 17:55:35 Africa/Dakar] PHP Notice:  session_start(): A session had already been started - ignoring in /home/guediawa/bluearkinvest.com/dev/admin/controllers/loginController.php on line 3
+[16-May-2022 20:14:45 Africa/Dakar] PHP Notice:  session_start(): A session had already been started - ignoring in /home/guediawa/bluearkinvest.com/dev/admin/controllers/loginController.php on line 3
+[16-May-2022 20:41:36 Africa/Dakar] PHP Notice:  Undefined variable: nomRep in /home/guediawa/bluearkinvest.com/dev/admin/controllers/publicationController.php on line 170
+[16-May-2022 20:41:36 Africa/Dakar] PHP Warning:  mkdir(): File exists in /home/guediawa/bluearkinvest.com/dev/admin/controllers/publicationController.php on line 178
+[16-May-2022 20:41:36 Africa/Dakar] PHP Notice:  Undefined variable: nomRep in /home/guediawa/bluearkinvest.com/dev/admin/controllers/publicationController.php on line 189
+[16-May-2022 20:41:36 Africa/Dakar] PHP Warning:  mkdir(): File exists in /home/guediawa/bluearkinvest.com/dev/admin/controllers/publicationController.php on line 197
+[17-May-2022 19:35:09 Africa/Dakar] PHP Notice:  session_start(): A session had already been started - ignoring in /home/guediawa/bluearkinvest.com/dev/admin/controllers/loginController.php on line 3
+[31-Jul-2022 15:08:14 Africa/Dakar] PHP Notice:  session_start(): A session had already been started - ignoring in /home/guediawa/bluearkinvest.com/dev/admin/controllers/loginController.php on line 3
+[17-Sep-2024 08:40:22 Africa/Dakar] PHP Warning:  mkdir(): File exists in /home/guediawa/finlex.sn/admin/controllers/publicationController.php on line 261
+[17-Sep-2024 09:06:58 Africa/Dakar] PHP Warning:  mkdir(): File exists in /home/guediawa/finlex.sn/admin/controllers/publicationController.php on line 261
+[17-Sep-2024 09:13:33 Africa/Dakar] PHP Warning:  mkdir(): File exists in /home/guediawa/finlex.sn/admin/controllers/publicationController.php on line 261
+[18-Sep-2024 10:33:05 Africa/Dakar] PHP Warning:  mkdir(): File exists in /home/guediawa/finlex.sn/admin/controllers/publicationController.php on line 261
+[18-Sep-2024 10:41:05 Africa/Dakar] PHP Warning:  mkdir(): File exists in /home/guediawa/finlex.sn/admin/controllers/publicationController.php on line 261
+[19-Sep-2024 15:50:42 Africa/Dakar] PHP Warning:  mkdir(): File exists in /home/guediawa/finlex.sn/admin/controllers/publicationController.php on line 261
+[19-Sep-2024 15:54:44 Africa/Dakar] PHP Warning:  mkdir(): File exists in /home/guediawa/finlex.sn/admin/controllers/publicationController.php on line 261
+[04-Dec-2024 11:25:46 Africa/Dakar] PHP Warning:  mkdir(): File exists in /home/guediawa/finlex.sn/admin/controllers/publicationController.php on line 261
+[11-Oct-2025 15:19:39 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'guediawa_k2a'@'localhost' (using password: YES) in /home/guediawa/k2afiltration.com/admin/config/app.php on line 13
+[17-Oct-2025 12:19:09 Africa/Dakar] PHP Notice:  Undefined variable: con in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 10
+[17-Oct-2025 12:19:09 Africa/Dakar] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 10
+[17-Oct-2025 12:19:09 Africa/Dakar] PHP Notice:  Undefined variable: con in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 15
+[17-Oct-2025 12:19:09 Africa/Dakar] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 15
+[17-Oct-2025 12:19:09 Africa/Dakar] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 16
+[17-Oct-2025 12:19:09 Africa/Dakar] PHP Notice:  Undefined variable: con in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 34
+[17-Oct-2025 12:19:09 Africa/Dakar] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 34
+[17-Oct-2025 12:19:09 Africa/Dakar] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 38
+[17-Oct-2025 12:19:12 Africa/Dakar] PHP Notice:  Undefined variable: con in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 10
+[17-Oct-2025 12:19:12 Africa/Dakar] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 10
+[17-Oct-2025 12:19:12 Africa/Dakar] PHP Notice:  Undefined variable: con in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 15
+[17-Oct-2025 12:19:12 Africa/Dakar] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 15
+[17-Oct-2025 12:19:12 Africa/Dakar] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 16
+[17-Oct-2025 12:19:12 Africa/Dakar] PHP Notice:  Undefined variable: con in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 34
+[17-Oct-2025 12:19:12 Africa/Dakar] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 34
+[17-Oct-2025 12:19:12 Africa/Dakar] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 38
+[17-Oct-2025 12:19:14 Africa/Dakar] PHP Notice:  Undefined variable: con in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 10
+[17-Oct-2025 12:19:14 Africa/Dakar] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 10
+[17-Oct-2025 12:19:14 Africa/Dakar] PHP Notice:  Undefined variable: con in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 15
+[17-Oct-2025 12:19:14 Africa/Dakar] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 15
+[17-Oct-2025 12:19:14 Africa/Dakar] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 16
+[17-Oct-2025 12:19:14 Africa/Dakar] PHP Notice:  Undefined variable: con in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 34
+[17-Oct-2025 12:19:14 Africa/Dakar] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 34
+[17-Oct-2025 12:19:14 Africa/Dakar] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 38
+[17-Oct-2025 12:19:39 Africa/Dakar] PHP Notice:  Undefined variable: con in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 10
+[17-Oct-2025 12:19:39 Africa/Dakar] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 10
+[17-Oct-2025 12:19:39 Africa/Dakar] PHP Notice:  Undefined variable: con in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 15
+[17-Oct-2025 12:19:39 Africa/Dakar] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 15
+[17-Oct-2025 12:19:39 Africa/Dakar] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 16
+[17-Oct-2025 12:19:39 Africa/Dakar] PHP Notice:  Undefined variable: con in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 34
+[17-Oct-2025 12:19:39 Africa/Dakar] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 34
+[17-Oct-2025 12:19:39 Africa/Dakar] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 38
+[17-Oct-2025 12:21:14 Africa/Dakar] PHP Notice:  Undefined variable: con in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 10
+[17-Oct-2025 12:21:14 Africa/Dakar] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 10
+[17-Oct-2025 12:21:14 Africa/Dakar] PHP Notice:  Undefined variable: con in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 15
+[17-Oct-2025 12:21:14 Africa/Dakar] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 15
+[17-Oct-2025 12:21:14 Africa/Dakar] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 16
+[17-Oct-2025 12:21:14 Africa/Dakar] PHP Notice:  Undefined variable: con in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 34
+[17-Oct-2025 12:21:14 Africa/Dakar] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 34
+[17-Oct-2025 12:21:14 Africa/Dakar] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 38
+[17-Oct-2025 12:21:22 Africa/Dakar] PHP Notice:  Undefined variable: con in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 10
+[17-Oct-2025 12:21:22 Africa/Dakar] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 10
+[17-Oct-2025 12:21:22 Africa/Dakar] PHP Notice:  Undefined variable: con in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 15
+[17-Oct-2025 12:21:22 Africa/Dakar] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 15
+[17-Oct-2025 12:21:22 Africa/Dakar] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 16
+[17-Oct-2025 12:21:22 Africa/Dakar] PHP Notice:  Undefined variable: con in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 34
+[17-Oct-2025 12:21:22 Africa/Dakar] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 34
+[17-Oct-2025 12:21:22 Africa/Dakar] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 38
+[17-Oct-2025 12:21:22 Africa/Dakar] PHP Notice:  Undefined variable: con in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 10
+[17-Oct-2025 12:21:22 Africa/Dakar] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 10
+[17-Oct-2025 12:21:22 Africa/Dakar] PHP Notice:  Undefined variable: con in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 15
+[17-Oct-2025 12:21:22 Africa/Dakar] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 15
+[17-Oct-2025 12:21:22 Africa/Dakar] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 16
+[17-Oct-2025 12:21:22 Africa/Dakar] PHP Notice:  Undefined variable: con in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 34
+[17-Oct-2025 12:21:22 Africa/Dakar] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 34
+[17-Oct-2025 12:21:22 Africa/Dakar] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 38
+[17-Oct-2025 12:46:20 Africa/Dakar] PHP Notice:  Undefined variable: con in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 10
+[17-Oct-2025 12:46:20 Africa/Dakar] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 10
+[17-Oct-2025 12:46:20 Africa/Dakar] PHP Notice:  Undefined variable: con in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 15
+[17-Oct-2025 12:46:20 Africa/Dakar] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 15
+[17-Oct-2025 12:46:20 Africa/Dakar] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 16
+[17-Oct-2025 12:46:20 Africa/Dakar] PHP Notice:  Undefined variable: con in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 34
+[17-Oct-2025 12:46:20 Africa/Dakar] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 34
+[17-Oct-2025 12:46:20 Africa/Dakar] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/guediawa/k2afiltration.com/admin/controllers/loginController.php on line 38

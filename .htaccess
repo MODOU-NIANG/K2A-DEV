@@ -1,0 +1,28 @@
+# Active la réécriture d'URL
+RewriteEngine On
+RewriteOptions Inherit
+
+# 🔐 Redirection automatique HTTPS + sans www
+RewriteCond %{HTTPS} off [OR]
+RewriteCond %{HTTP:X-Forwarded-SSL} !on
+RewriteCond %{HTTP_HOST} ^www\.k2afiltration\.com$ [NC]
+RewriteRule ^(.*)$ https://k2afiltration.com/$1 [R=301,L]
+
+# 🔎 Supprimer .php dans l'URL
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^([^.]+)$ $1.php [L]
+
+# ——————————
+# Paramètres serveur
+# ——————————
+<IfModule php7_module>
+   php_flag display_errors Off
+   php_value max_execution_time 180
+   php_value max_input_time 180
+   php_value max_input_vars 7000
+   php_value memory_limit 256M
+   php_value post_max_size 128M
+   php_value session.gc_maxlifetime 1440
+   php_value upload_max_filesize 32M
+</IfModule>
